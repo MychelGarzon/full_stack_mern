@@ -39,5 +39,3 @@
 # packages to install in frontend folder: npm i axios (making a call to the backend) / npm i react-icons /
 
 # Icons: https://react-icons.github.io/react-icons/icons/bi/
-
-# Icons: https://react-icons.github.io/react-icons/icons/bi/
