@@ -37,3 +37,5 @@
 # npm i react-router-dom in the frontend folder
 
 # packages to install in frontend folder: npm i axios (making a call to the backend) / npm i react-icons /
+
+# Icons: https://react-icons.github.io/react-icons/icons/bi/
